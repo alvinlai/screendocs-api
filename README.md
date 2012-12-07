@@ -20,6 +20,10 @@ Screendocs API requires OAuth2 authentication. To get started, you'll need to:
 - Authenticate and get your OAuth2 Token
 - Authorize by adding an `Authorization` header with your `Bearer Add-Your-OAuth2-Token-Here` OAuth2 Token.
 
+Samples:
+
+- [Ruby example](https://github.com/alvinlai/screendocs-api/blob/master/examples/ruby_oauth2_example.rb) using the oauth2 rubygem.
+
 Making a request
 ----------------
 
